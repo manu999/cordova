@@ -1,5 +1,9 @@
 body{
-   padding:50px;
+    padding:50px;
+}
+
+#wrapper{
+    background:url('https://ugc.kn3.net/i/origin/http://www.fondos7.net/wallpaper-original/wallpapers/pelota-de-futbol-9716.jpg');
 }
 
 #login-dp{
